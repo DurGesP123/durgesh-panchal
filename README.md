@@ -62,6 +62,7 @@ Performance Optimization, Accessibility (a11y), Responsive Design, Component-bas
 - 📧 Email: durgeshpanchal1995@gmail.com
 - 📞 Contact No: 8097275967
 - 💼 LinkedIn: https://www.linkedin.com/in/durgeshpanchal95/
+- 🧑‍💻 Portfolio: https://durgesh-panchal-1995.github.io/My-Portfolio/
 
 🔍 Open to Senior Frontend / Frontend Lead opportunities  
 🌍 Remote | Product-based companies | Scale-focused teams
